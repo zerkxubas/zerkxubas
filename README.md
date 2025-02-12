@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba19550b-5bf5-4900-8a72-7047e67723ac" alt="Subash Sharma" width="200"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Subash Sharma</h1>
-<h3 align="center">A passionate Web Application developer from Nepal</h3>
+<h3 align="center">A passionate Software developer.</h3>
 
 <p align="left"> <a href="https://zerkbro.com" target="blank"><img src="https://img.shields.io/badge/Website-ZerkBro.com-blue?style=for-the-badge&logo=www" alt="Website" /></a> </p>
 <p align="left"> <a href="https://twitter.com/zerkxubas" target="blank"><img src="https://img.shields.io/twitter/follow/zerkxubas?logo=twitter&style=for-the-badge" alt="Twitter"/></a> </p>
