@@ -54,7 +54,7 @@
 
 <h3 align="left">I'm Listening 🎧:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7ky1lyo96ob5ehsu8eh1qowxb&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=7ky1lyo96ob5ehsu8eh1qowxb&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7ky1lyo96ob5ehsu8eh1qowxb&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=58be55&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=7ky1lyo96ob5ehsu8eh1qowxb&redirect=true)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zerkxubas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zerkxubas" /></a></p><br><br>
