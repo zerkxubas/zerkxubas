@@ -7,7 +7,12 @@
 <h3 align="center">A passionate Software developer.</h3>
 
 <p align="left"> <a href="https://zerkbro.com" target="blank"><img src="https://img.shields.io/badge/Website-ZerkBro.com-blue?style=for-the-badge&logo=www" alt="Website" /></a> </p>
-<p align="left"> <a href="https://twitter.com/zerkxubas" target="blank"><img src="https://img.shields.io/twitter/follow/zerkxubas?logo=twitter&style=for-the-badge" alt="Twitter"/></a> </p>
+
+[![Spotify Playlist](https://img.shields.io/badge/Spotify%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2SQ8vOj1WuR0F6kKJrM9Vv?utm_source=generator)
+
+<p align="left"><a href="https://github.com/zerkxubas" target="blank"><img src="https://img.shields.io/badge/GitHub-ZerkXubas-black?style=for-the-badge&logo=github" alt="GitHub" /></a></p>
+
+<p align="left"> <a href="https://twitter.com/zerkxubas" target="blank"><img src="https://img.shields.io/twitter/follow/zerkxubas?logo=x&style=for-the-badge" alt="Twitter"/></a> </p>
 
 - 🔭 I’m currently working on **Laravel Projects**
 
@@ -47,6 +52,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">I'm Listening 🎧:</h3>
 
-<h3 align="left">Support :</h3>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7ky1lyo96ob5ehsu8eh1qowxb&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=7ky1lyo96ob5ehsu8eh1qowxb&redirect=true)
+
+<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zerkxubas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zerkxubas" /></a></p><br><br>
