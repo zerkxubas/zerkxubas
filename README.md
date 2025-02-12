@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ba19550b-5bf5-4900-8a72-7047e67723ac" alt="Subash Sharma" width="200"/>
+  <img src="https://private-user-images.githubusercontent.com/58468435/412296578-ba19550b-5bf5-4900-8a72-7047e67723ac.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzNDM3ODIsIm5iZiI6MTczOTM0MzQ4MiwicGF0aCI6Ii81ODQ2ODQzNS80MTIyOTY1NzgtYmExOTU1MGItNWJmNS00OTAwLThhNzItNzA0N2U2NzcyM2FjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEyVDA2NTgwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlMTg3ODcwNzY2MWM1OGU0Njg1ODdmYzE2YTEyYmYwNjNiZDM4NGNhYjFlNTE5NGExMWQzN2I1NTI4MThhMmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2FQcWqXB9EP_Do0r1QP3cmv2_Hyu3t9z1FHAYcyY7Wg" alt="Subash Sharma" width="200"/>
+  
 </p>
 
 <h1 align="center">Hi 👋, I'm Subash Sharma</h1>
