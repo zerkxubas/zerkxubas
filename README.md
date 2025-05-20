@@ -20,6 +20,11 @@
 
 - 📫 How to reach me **Ping Me**
 
+<h3 align="left">My Packages</h3>
+<p align="left">
+<a href="https://packagist.org/packages/zerkxubas" target="blank"><img align="center" src="https://github.com/user-attachments/assets/a55df336-926a-4a91-8691-91f32b9056fa" alt="zerkxubas-packagist" height="30" width="40"/></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zerkxubas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zerkxubas" height="30" width="40" /></a>
