@@ -33,6 +33,14 @@
 <a href="https://github.com/zerkxubas" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="zerkxubas" height="30" width="30" /></a>
 </p>
 
+<h3 align="left">Game Projects</h3>
+<h6 align="left">Star Ball Game</h6>
+<p align="left">
+  <a href="https://apps.microsoft.com/detail/9pmj3j413d1s?referrer=appbadge&mode=direct">
+	  <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
