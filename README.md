@@ -41,6 +41,13 @@
   </a>
 </p>
 
+<h6 align="left">Tic Tac Toe</h6>
+<p align="left">
+  <a href="https://apps.microsoft.com/detail/9p4zxcgcjzj2?referrer=appbadge&mode=direct">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
