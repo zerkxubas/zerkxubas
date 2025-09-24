@@ -33,6 +33,12 @@
 <a href="https://github.com/zerkxubas" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="zerkxubas" height="30" width="30" /></a>
 </p>
 
+<h3 align="left">Software Projects</h3>
+<h6 align="left">SAIDO RMS (Restaurant Management System)</h6>
+<a href="https://apps.microsoft.com/detail/9p6z47q1s9gl?referrer=appbadge&cid=saidorms&mode=direct">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
+
 <h3 align="left">Game Projects</h3>
 <h6 align="left">Star Ball Game</h6>
 <p align="left">
